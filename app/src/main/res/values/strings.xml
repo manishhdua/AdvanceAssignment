@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Panic Mode</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="date_count_format">%1$d @%2$s</string>
+
+
+    <!-- week 4 strings -->
+    <string name="get_location">Track Location</string>
+    <string name="map_location">Map Location</string>
+    <string name="android_image">Android Image</string>
+    <string name="textview_hint">Press the button to send your location</string>
+    <string name="location_permission_denied">Location Permission Denied</string>
+    <string name="location_text">"Latitude: %1$.4f \n Longitude: %2$.4f \n Timestamp: %3$tr"</string>
+    <string name="no_location">No Location Found</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="invalid_lat_long_used">Invalid coordinates were supplied to the Geocoder</string>
+    <string name="no_address_found">No Addresses Found</string>
+    <string name="address_text">"Location: %1$s \n Timestamp: %2$tr"</string>
+    <string name="loading">Loading</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="dropped_pin">Dropped Pin</string>
+    <string name="authentication">Authenticate with Fingerprint</string>
+
+    <string name="title1">Cry for a Shadow</string>
+    <string name="article1">Many a Beatle fanatic started down the outtake
+ 	road,
+ 	like I did, with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single session that yielded four songs (the other three featured Tony Sheridan with the Beatles as a backing band), “Cry for a Shadow” is an instrumental written by Lennon and Harrison, which makes it unique to this day. John Lennon plays rhythm guitar, George Harrison plays lead guitar, Paul McCartney plays bass, and Pete Best plays drums. The sessions were produced by Bert Kaempfert in Hamburg, Germany, during the Beatles’ second visit from April through July of 1961 to play in the Reeperbahn-section clubs.</string>
+    <string name="title2">My Bonnie - Ain’t She Sweet</string>
+    <string name="article2">At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal).</string>
+
+    <!-- Text for the fragment. -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="yes_message">ARTICLE: Like</string>
+    <string name="no_message">ARTICLE: Thanks</string>
+    <string name="question_article">LIKE THE ARTICLE?</string>
+
+    <!-- Text for the button in FragmentExample2. -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- Text for the exception message in FragmentCommunicate. -->
+    <string name="exception_message">must implement OnFragmentInteractionListener</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
